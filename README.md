@@ -1,0 +1,2 @@
+# Chromatography_Simulation_Python
+Finite Difference Solver for Chromatography Equations
