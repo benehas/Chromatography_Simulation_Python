@@ -152,6 +152,7 @@ if __name__=='__main__':
     plt.xlabel('time in s')
     plt.ylabel('C')
     for k in range(C):
-        plt.plot(t,plot[k,:])     
+        plt.plot(t,plot[k,:])
+    plt.show()
         
           
